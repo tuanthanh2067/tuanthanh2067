@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-### I'm _Tuan Thanh_ aka Dustin_
+### I'm _Tuan Thanh_ aka _Dustin_
 
 - 🔭 I’m currently looking for a co-op position as a web developer
 - 🌱 I consider myself as a full-stack developer
